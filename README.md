@@ -2,8 +2,8 @@
 
 The world's real news, retold with a straight face and a raised eyebrow. A new episode every morning.
 
-- Listen and follow: https://mosabs2.github.io/morning-all/
-- Podcast feed (paste into a podcast app): https://mosabs2.github.io/morning-all/podcast.xml
+- Listen and follow: https://morningall.wwmo210.com/
+- Podcast feed (paste into a podcast app): https://morningall.wwmo210.com/podcast.xml
 
-The listening page, the feed and the recent episodes are published automatically each morning on this
-repository's gh-pages branch. Every episode is also kept as the download attached to its own release.
+The show moved to its own address on 22 September 2026. This repository's gh-pages branch now only
+forwards the old address, https://mosabs2.github.io/morning-all/, to the new one.
